@@ -16,6 +16,8 @@ Window {
 
     FPSText{
             id: fps_text
+            width: 10
+            height: 10
             Text {
                     anchors.centerIn: parent
                     text: fps_text.fps.toFixed(2)
