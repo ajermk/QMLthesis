@@ -1,0 +1,25 @@
+QDateTime(2021-08-09 16:49:00.954 EEST Qt::LocalTime)   44
+QDateTime(2021-08-09 16:49:01.905 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:02.855 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:03.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:04.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:05.822 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:06.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:07.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:08.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:09.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:10.821 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:11.821 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:12.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:13.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:14.821 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:15.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:16.821 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:17.833 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:18.835 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:19.821 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:20.835 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:21.822 EEST Qt::LocalTime)   60
+QDateTime(2021-08-09 16:49:22.832 EEST Qt::LocalTime)   61
+QDateTime(2021-08-09 16:49:23.835 EEST Qt::LocalTime)   60 
+avg 57.6

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Ball.qml</file>
+        <file>code.js</file>
+        <file>Ball2.qml</file>
+    </qresource>
+</RCC>
